@@ -13,7 +13,7 @@ Jednotlivé notebooky témat si můžete zobrazit na těchto stránkách:
 * [Transformace náhodných veličin](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Transformace.ipynb)
 * [Náhodné vektory](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Nahodne_vektory.ipynb)
 * [Limitní věty](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Limitni_vety.ipynb)
-* [Intervalové odhady, testy](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Intervalove_odhady.ipynb)
+* [Intervalové odhady, testy](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Intervaly_spolehlivosti.ipynb)
 
 **Materiál vzniká průběžně a velmi pravděpodobně bude plný překlepů a chybiček.
 Prosím o jejich report.**
