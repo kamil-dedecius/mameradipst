@@ -7,11 +7,13 @@ přiblížit souvislosti mezi probíranou teorií a jejím využitím v praxi.
 
 Jednotlivé notebooky témat si můžete zobrazit na těchto stránkách:
 
-* [Téma 2: Podmíněná pravděpodobnost](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Podminene_psti_a_Bayes.ipynb)
-* [Téma 3: Náhodná veličina](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Nahodna_velicina_diskretni.ipynb)
-* [Téma 4: Spojité náhodné veličiny](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Nahodna_velicina_spojita.ipynb)
-* [Téma 5: Transformace náhodných veličin](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Transformace.ipynb)
-* [Téma 6: Náhodné vektory](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Nahodne_vektory.ipynb)
+* [Podmíněná pravděpodobnost](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Podminene_psti_a_Bayes.ipynb)
+* [Náhodná veličina](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Nahodna_velicina_diskretni.ipynb)
+* [Spojité náhodné veličiny](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Nahodna_velicina_spojita.ipynb)
+* [Transformace náhodných veličin](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Transformace.ipynb)
+* [Náhodné vektory](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Nahodne_vektory.ipynb)
+* [Limitní věty](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Limitni_vety.ipynb)
+* [Intervalové odhady, testy](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Intervalove_odhady.ipynb)
 
 **Materiál vzniká průběžně a velmi pravděpodobně bude plný překlepů a chybiček.
 Prosím o jejich report.**
