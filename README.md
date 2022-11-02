@@ -14,7 +14,7 @@ Jednotlivé notebooky témat si můžete zobrazit na těchto stránkách:
 * [Spojité náhodné veličiny](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Nahodna_velicina_spojita.ipynb)
 * [Transformace náhodných veličin](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Transformace.ipynb)
 * [Náhodné vektory](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Nahodne_vektory.ipynb)
-* [Limitní věty](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Limitni_vety.ipynb)
+* [Limitní věty](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Limitni_vety.ipynb) [YouTube](https://youtube.com/playlist?list=PLWWzz_uGN7YDICu5pxYhMBEEdmGK1r-39)
 * [Bodové odhady](http://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Bodove_odhady.ipynb)
 * [Intervalové odhady, testy](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Intervaly_spolehlivosti.ipynb)
 * [Lineární regrese](https://nbviewer.jupyter.org/github/kamil-dedecius/mameradipst/blob/master/Linearni_regrese.ipynb)
